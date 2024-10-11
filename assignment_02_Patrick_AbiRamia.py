@@ -102,4 +102,6 @@ def checkPassword():
         print("Weak Password") 
 
 
-checkPassword()                    
+checkPassword() 
+
+
